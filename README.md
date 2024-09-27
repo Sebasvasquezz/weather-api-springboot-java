@@ -92,7 +92,7 @@ Deberias obtener algo similar a:
 ![img.png](tests.png)
 
 Al finalizar, se generará un reporte con los resultados en `build/reports/tests/test/index.html`. 
-Las pruebas pueden fallar debido a la hora de ejecución, debido a la naturaleza del api. Las pruebas se crearon a las 11:15 am.
+Las pruebas pueden fallar debido a la hora de ejecución, debido a la naturaleza del api. La hora de creacion de las pruebas es: 11:15 am.
 
 
 ## Autor
